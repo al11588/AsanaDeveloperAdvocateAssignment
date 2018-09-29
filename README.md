@@ -4,6 +4,12 @@
 
 The [Asana] API allows for a caller to post a "thanks" message to a user in the system.
 
+## Prerequisites:
+
+Before you begin this guide, you need the following:
+
+
+
 | Field         |                               Description                              |
 |:---------------|:----------------------------------------------------------------------:|
 | **id**            |  **Example:**`"6789"` Allows the caller to have their own unique ID.      |
