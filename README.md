@@ -12,11 +12,13 @@ Before you begin this guide, you need the following:
 
 * A text editor that you will be comfortable using: [Sublime Text], [Atom], [Visual Studio Code]. 
 
+* You need an Asana API key.
+
 ## Users:
 
 The user account object allows for a caller to create their own "thanks" message.
 
- 
+
 
 | Field         |                               Description                              |
 |:---------------|:----------------------------------------------------------------------:|
