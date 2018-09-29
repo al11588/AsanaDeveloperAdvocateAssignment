@@ -1,12 +1,12 @@
 # Asana API 
 
-## Overview:
+# Overview:
 
 The [Asana] API allows for a caller to post a "thanks" message to a user in the system.
 
-## Prerequisites:
+# Prerequisites:
 
-Before you begin this guide, you need the following:
+## Before you begin this guide, you need the following:
 
 * You need to set up a local development environment for Terminal.
 
@@ -14,11 +14,11 @@ Before you begin this guide, you need the following:
 
 * You need an Asana API key.
 
-## Users:
+# Users:
 
 The user account object allows for a caller to create their own "thanks" message.
 
-Users who are the callers have these fields:
+## Users who are the callers have these fields:
 
 | Field         |                               Description                              |
 |:---------------|:----------------------------------------------------------------------:|
