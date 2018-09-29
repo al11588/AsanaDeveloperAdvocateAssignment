@@ -8,7 +8,7 @@ The [Asana] API allows for a caller to post a "thanks" message to a user in the 
 
 Before you begin this guide, you need the following:
 
-
+* You need to set up a local development environment for Terminal.
 
 | Field         |                               Description                              |
 |:---------------|:----------------------------------------------------------------------:|
