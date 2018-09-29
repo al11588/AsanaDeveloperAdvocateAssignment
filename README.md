@@ -2,7 +2,7 @@
 
 ## Overview:
 
-The [Asana] API allows for a caller to post a "thanks" to a user in the system.
+The [Asana] API allows for a caller to post a "thanks" message to a user in the system.
 
 | Field         |                               Description                              |
 |:---------------|:----------------------------------------------------------------------:|
