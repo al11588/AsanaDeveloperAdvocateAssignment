@@ -10,6 +10,10 @@ Before you begin this guide, you need the following:
 
 * You need to set up a local development environment for Terminal.
 
+* A text editor that you will be comfortable using: [Sublime Text], [Atom], [Visual Studio Code]. 
+
+
+
 | Field         |                               Description                              |
 |:---------------|:----------------------------------------------------------------------:|
 | **id**            |  **Example:**`"6789"` Allows the caller to have their own unique ID.      |
@@ -19,4 +23,6 @@ Before you begin this guide, you need the following:
 
 
 [Asana]:https://asana.com/developers/api-reference/users
-
+[Sublime Text]:https://www.sublimetext.com/
+[Atom]:https://atom.io/
+[Visual Studio Code]:https://code.visualstudio.com/
