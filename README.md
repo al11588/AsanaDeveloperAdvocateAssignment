@@ -18,7 +18,7 @@ Before you begin this guide, you need the following:
 
 The user account object allows for a caller to create their own "thanks" message.
 
-
+Users who are the callers have these fields:
 
 | Field         |                               Description                              |
 |:---------------|:----------------------------------------------------------------------:|
