@@ -12,12 +12,16 @@ Before you begin this guide, you need the following:
 
 * A text editor that you will be comfortable using: [Sublime Text], [Atom], [Visual Studio Code]. 
 
+## Users:
 
+The user account object allows for a caller to create their own "thanks" message.
+
+ 
 
 | Field         |                               Description                              |
 |:---------------|:----------------------------------------------------------------------:|
 | **id**            |  **Example:**`"6789"` Allows the caller to have their own unique ID.      |
-| **caller**        |  **Example:**`"Alvin Lawson"` Allows the caller to have their own user name. |
+| **name**        |  **Example:**`"Alvin Lawson"` Allows the caller to have their own user name. |
 | **thanksmessage** |  **Example:**`"Purpose"`Allows the caller to post a "thanks" message to the their own user name.|
 | *thanksmessage(optional)*| **Example:** `"mindfulness"`, `“balance”`, `“clarity”`, `“empowerment”`, `“reality”` or `“play”` These are some other optional **thanksmessage** you can use.|
 
