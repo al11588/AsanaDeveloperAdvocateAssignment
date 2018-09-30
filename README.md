@@ -29,6 +29,8 @@ Users who are the callers have these fields:
 
 ## Create a "thanks" message:
 
+|`POST /thanksmessages`|
+
 
 [Asana]:https://asana.com/developers/api-reference/users
 [Sublime Text]:https://www.sublimetext.com/
