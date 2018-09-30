@@ -32,7 +32,7 @@ Users who are the callers have these fields:
 |`POST /thanksmessages`|
 |---------------|
 
-Creating a new **"thanksmessage"** is easier now POSTing to the new `/thanksmessages` endpoint. You can post the **"thanksmessage"** value you desire. A caller is required to use these given **"thanksmessage"** value: `"Purpose"`,`"mindfulness"`, `“balance”`, `“clarity”`, `“empowerment”`, `“reality”`,and`“play”`.
+Creating a new **"thanksmessage"** is easier now POSTing to the new `/thanksmessages` endpoint. You can post the **"thanksmessage"** value you desire. A caller is required to use one of these given **"thanksmessage"** values: `"Purpose"`,`"mindfulness"`, `“balance”`, `“clarity”`, `“empowerment”`, `“reality”`,and`“play”`.
 
 
 [Asana]:https://asana.com/developers/api-reference/users
