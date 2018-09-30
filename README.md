@@ -41,6 +41,8 @@ Creating a new **"thanksmessage"** is easier now POSTing to the new `/users/than
 
 Returns the full "thanks" message that a caller POSTed.
 
+![image of return thanksmessage](https://raw.githubusercontent.com/al11588/AsanaDeveloperAdvocateAssignment/master/Screen%20Shot%202018-09-30%20at%206.44.40%20PM.png?token=AFM1uAX-r785Ub_s64dbIaCawEfIMokNks5buo2iwA%3D%3D)
+
 ## Example Code:
 
 ![image of thanksmessage](https://raw.githubusercontent.com/al11588/AsanaDeveloperAdvocateAssignment/master/Screen%20Shot%202018-09-29%20at%209.30.35%20PM.png?token=AFM1uFCvsZVWMth0Ra6rBHewCy3aMNC2ks5buWKawA%3D%3D)
