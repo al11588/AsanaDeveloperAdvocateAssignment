@@ -45,8 +45,6 @@ Returns the full "thanks" message that a caller POSTed.
 
 ## Example Code:
 
-![image of thanksmessage](https://raw.githubusercontent.com/al11588/AsanaDeveloperAdvocateAssignment/master/Screen%20Shot%202018-09-29%20at%209.30.35%20PM.png?token=AFM1uFCvsZVWMth0Ra6rBHewCy3aMNC2ks5buWKawA%3D%3D)
-
 [Click Here]
 
 [Asana]:https://asana.com/developers/api-reference/users
