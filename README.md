@@ -2,7 +2,7 @@
 
 ## Overview:
 
-The [Asana] API allows for a caller to post a "thanks" message to a user in the system.
+The new [Asana] API endpoint allows for a caller to post a "thanks" message to a user in the system.
 
 ## Prerequisites:
 
