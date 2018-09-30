@@ -35,6 +35,13 @@ Users who are the callers have these fields:
 Creating a new **"thanksmessage"** is easier now POSTing to the new `/users/thanksmessages` endpoint. You can post the **"thanksmessage"** value you desire. A caller is required to use one of these given **"thanksmessage"** values: `"Purpose"`,`"mindfulness"`, `“balance”`, `“clarity”`, `“empowerment”`, `“reality”`,and`“play”`.
 
 
+`{
+	"id": 6789,
+	"name": "Alvin Lawson",
+	"thanksmessage": "Purpose",	
+}`
+
+
 [Asana]:https://asana.com/developers/api-reference/users
 [Sublime Text]:https://www.sublimetext.com/
 [Atom]:https://atom.io/
