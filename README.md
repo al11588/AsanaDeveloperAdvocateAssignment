@@ -27,12 +27,14 @@ Users who are the callers have these fields:
 | **thanksmessage** |  **Example:**`"Purpose"`Allows the caller to post a "thanks" message to have their own username.|
 | *thanksmessage(optionals)*| **Example:** `"mindfulness"`, `“balance”`, `“clarity”`, `“empowerment”`, `“reality”` or `“play”` These are the optional **thanksmessage** values you can use.|
 
-## Create a "thanks" message:
+## Create the "thanks" message:
 
 |`POST /users/thanksmessages`|
 |---------------|
 
 Creating a new **"thanksmessage"** is easier now POSTing to the new `/users/thanksmessages` endpoint. You can post the **"thanksmessage"** value that you desire. A caller is required to use one of these given **"thanksmessage"** values: `"Purpose"`,`"mindfulness"`, `“balance”`, `“clarity”`, `“empowerment”`, `“reality”`,and`“play”`.
+
+## Return the "thanks" message:
 
 |`GET /users/thanksmessages`|
 |---------------|
