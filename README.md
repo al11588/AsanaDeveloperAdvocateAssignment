@@ -25,12 +25,14 @@ Users who are the callers have these fields:
 | **id**            |  **Example:**`"6789"` Allows the caller to have their own unique ID.      |
 | **name**        |  **Example:**`"Alvin Lawson"` Allows the caller to have their own user name. |
 | **thanksmessage** |  **Example:**`"Purpose"`Allows the caller to post a "thanks" message to the their own user name.|
-| *thanksmessage(optional)*| **Example:** `"mindfulness"`, `“balance”`, `“clarity”`, `“empowerment”`, `“reality”` or `“play”` These are some other optional **thanksmessage** you can use.|
+| *thanksmessage(optional)*| **Example:** `"mindfulness"`, `“balance”`, `“clarity”`, `“empowerment”`, `“reality”` or `“play”` These are the optional **thanksmessage** you can use.|
 
 ## Create a "thanks" message:
 
 |`POST /thanksmessages`|
 |---------------|
+
+Creating a new "thanksmessage" is easier now POSTing to the new `/thanksmessages` endpoint. You can post the "thanksmessage" value you desire. A caller is required to use these given "thanks" messages: `"Purpose"`,`"mindfulness"`, `“balance”`, `“clarity”`, `“empowerment”`, `“reality”`and`“play”`.
 
 
 [Asana]:https://asana.com/developers/api-reference/users
