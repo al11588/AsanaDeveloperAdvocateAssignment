@@ -32,7 +32,7 @@ Users who are the callers have these fields:
 |`POST /users/thanksmessages`|
 |---------------|
 
-Creating a new **"thanksmessage"** is easier now POSTing to the new `/users/thanksmessages` endpoint. You can post the **"thanksmessage"** value you desire. A caller is required to use one of these given **"thanksmessage"** values: `"Purpose"`,`"mindfulness"`, `“balance”`, `“clarity”`, `“empowerment”`, `“reality”`,and`“play”`.
+Creating a new **"thanksmessage"** is easier now POSTing to the new `/users/thanksmessages` endpoint. You can post the **"thanksmessage"** value that you desire. A caller is required to use one of these given **"thanksmessage"** values: `"Purpose"`,`"mindfulness"`, `“balance”`, `“clarity”`, `“empowerment”`, `“reality”`,and`“play”`.
 
 ## Example Code:
 
