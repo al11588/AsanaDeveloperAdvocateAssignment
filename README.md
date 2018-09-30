@@ -23,8 +23,8 @@ Users who are the callers have these fields:
 | Field         |                               Description                              |
 |:---------------|:----------------------------------------------------------------------:|
 | **id**            |  **Example:**`"6789"` Allows the caller to have their own unique ID.      |
-| **name**        |  **Example:**`"Alvin Lawson"` Allows the caller to have their own user name. |
-| **thanksmessage** |  **Example:**`"Purpose"`Allows the caller to post a "thanks" message to the their own user name.|
+| **name**        |  **Example:**`"Alvin Lawson"` Allows the caller to have their own username. |
+| **thanksmessage** |  **Example:**`"Purpose"`Allows the caller to post a "thanks" message to the their own username.|
 | *thanksmessage(optional)*| **Example:** `"mindfulness"`, `“balance”`, `“clarity”`, `“empowerment”`, `“reality”` or `“play”` These are the optional **thanksmessage** values you can use.|
 
 ## Create a "thanks" message:
