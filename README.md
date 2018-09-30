@@ -34,7 +34,8 @@ Users who are the callers have these fields:
 
 Creating a new **"thanksmessage"** is easier now POSTing to the new `/users/thanksmessages` endpoint. You can post the **"thanksmessage"** value you desire. A caller is required to use one of these given **"thanksmessage"** values: `"Purpose"`,`"mindfulness"`, `“balance”`, `“clarity”`, `“empowerment”`, `“reality”`,and`“play”`.
 
-
+## Code:
+ 
 ![image of thanksmessage](https://raw.githubusercontent.com/al11588/AsanaDeveloperAdvocateAssignment/master/Screen%20Shot%202018-09-29%20at%209.30.35%20PM.png?token=AFM1uFCvsZVWMth0Ra6rBHewCy3aMNC2ks5buWKawA%3D%3D)
 
 
